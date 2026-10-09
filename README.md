@@ -36,3 +36,29 @@ NEXUS reads your message, extracts your tasks, finds your free hours, avoids ove
 
  **Sends You an Email Digest:**
    * Dispatches a clean HTML briefing straight to your inbox with color-coded priority badges and your immediate next action.
+##  Live Output & How It Works
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/17aaa9ef-e1d9-427b-ac4d-fb7239c2d2ec" width="950" alt="NEXUS Output Screenshot" />
+</div>
+
+---
+
+### Understanding the Screen (In Simple Words)
+
+1. **What You Type (Input Box):**
+   * You write what you want to do in everyday English: *"I have to solve DSA problems and practice it on LeetCode."*[cite: 11]
+   * No complex forms or manual time inputs needed[cite: 11].
+
+2. **The Output Timetable (Zero Confusion):**
+   * **Organized Time Slots:** The agent arranged tasks sequentially from **08:00 AM** without overlapping[cite: 11].
+   * **Smart Rest Breaks:** Notice the **15-minute breaks** (*Rest & Re-energize*) placed after each study session to prevent burnout[cite: 11].
+   * **Clear Next Step:** The top-right box tells you exactly what to begin with right now[cite: 11].
+
+3. **Autonomous Email Digest:**
+   * Dispatches an alert confirming `Email successfully sent!` straight to your inbox[cite: 11].
+
+4. **Task Tracker & Dynamic Rescheduling:**
+   * Keeps track of all your tasks in an internal database with IDs and statuses[cite: 11].
+   * When an item is finished, simply enter its Task ID (e.g., **3**) and click **Mark as Completed & Recalculate**[cite: 11].
+   * The status changes to `COMPLETED` and the agent automatically recalculates the remaining time for the day[cite: 11].
